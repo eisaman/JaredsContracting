@@ -1,0 +1,5 @@
+[[redirects]]
+  from = "\JaredsContracting\home.htm"
+  to = "\JaredsContracting\jcontracting.htm"
+  status = 200
+  force = true
