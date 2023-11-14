@@ -1,0 +1,149 @@
+div#home {
+
+   display: block;
+   width: 100%;
+   float: left;
+   margin-right: 5%;
+   font-family:Verdana, Geneva, sans-serif;
+   color: red;
+   text-align: center;
+   background-color: white;
+}
+
+div#home img{
+   width: 29%;
+   height: 29%;
+}
+
+div#jobs {
+   display: block;
+   width: 100%;
+   float: left;
+   margin-right: 5%;
+   font-family:Verdana, Geneva, sans-serif;
+   text-align: center;
+}
+
+div#jobs h1{
+   color: red;
+}
+
+div#note {
+   display: block;
+   width: 100%;
+   float: left;
+   font-family:Verdana, Geneva, sans-serif;
+   text-align: center;
+}
+
+div#note p{
+   font-size: small;
+   color: red;
+}
+
+div#pricing {
+   display: block;
+   width: 100%;
+   float: left;
+   margin-right: 5%;
+   font-family:Verdana, Geneva, sans-serif;
+   text-align: center;
+}
+
+div#pricing h1{
+   color: red;
+}
+
+div#previous {
+   display: block;
+   width: 100%;
+   float: left;
+   margin-right: 5%;
+   font-family:Verdana, Geneva, sans-serif;
+   text-align: center;
+}
+
+div#previous h1{
+   color: red;
+}
+
+#photos{
+   position: relative;
+  padding-bottom: 56.25%; /* 16:9 */
+  padding-top: 25px;
+  height: 0;
+}
+
+#photos iframe{
+   position: absolute;
+  top: 5%;
+  left: 0;
+  width: 90%;
+  height: 90%;
+}
+
+div#about {
+   display: block;
+   width: 100%;
+   float: left;
+   margin-right: 5%;
+   font-family:Verdana, Geneva, sans-serif;
+   text-align: center;
+}
+
+div#about h1{
+   color: red;
+}
+
+div#about img{
+   width: 50%;
+   float: left;
+}
+
+div#reviews {
+   display: block;
+   width: 100%;
+   float: left;
+   margin-right: 5%;
+   font-family:Verdana, Geneva, sans-serif;
+   text-align: center;
+}
+
+div#reviews h1{
+   color: red;
+}
+
+div#reviews img{
+   width: 15%;
+}
+
+div#contact {
+   display: block;
+   width: 100%;
+   float: left;
+   margin-right: 5%;
+   font-family:Verdana, Geneva, sans-serif;
+   text-align: center;
+}
+
+div#contact h1{
+   color: red;
+}
+
+ul {
+   list-style-type: none;
+   padding-left: 0px;
+   margin-left: 0px;
+}
+
+li {
+   font-size: 16px;
+}
+
+p {
+   font-size: 20px;
+}
+
+img {
+   width: 70%;
+}

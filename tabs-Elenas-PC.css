@@ -1,0 +1,54 @@
+div#home {
+
+   display: block;
+   width: 100%;
+   float: left;
+   margin-right: 5%;
+   font-family:Verdana, Geneva, sans-serif;
+   color: red;
+   text-align: center;
+   background-color: white;
+}
+
+div#home img{
+   width: 31%;
+   height: 31%;
+}
+
+div#jobs {
+
+   display: block;
+   width: 45%;
+   float: left;
+   margin-right: 5%;
+   font-family:Verdana, Geneva, sans-serif;
+}
+
+div#jobs h2{
+   
+}
+
+div#summary {
+   display: block;
+   width: 55%;
+   float: left;
+   font-family:Verdana, Geneva, sans-serif;
+}
+
+ul {
+   list-style-type: none;
+   padding-left: 0px;
+   margin-left: 0px;
+}
+
+li {
+   font-size: 16px;
+}
+
+p {
+   font-size: 20px;
+}
+
+img {
+   width: 70%;
+}
